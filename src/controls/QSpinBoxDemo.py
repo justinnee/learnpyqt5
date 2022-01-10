@@ -26,6 +26,9 @@ class QSpinBoxDemo(QWidget):
         layout.addWidget(self.label)
 
         self.sb = QSpinBox()
+        self.sb.setValue(18)
+        self.sb.setRange(10,38)
+        self.sb.setSingleStep(3)
         layout.addWidget(self.sb)
         self.sb.valueChanged.connect(self.valueChange)
         self.setLayout(layout)
