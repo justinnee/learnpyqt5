@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/controls" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/designer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/dialogs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/drapclip" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/drawing" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (jun_yolox)" jdkType="Python SDK" />
