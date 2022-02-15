@@ -23,3 +23,5 @@ One slot can also intercept several signals.
 3. QDialog: Base class of dialog window, do not have menu bar,toolbar or status bar
 
 # Screen geometry
+
+

@@ -45,7 +45,7 @@ if __name__ == '__main__':
     # create QApplication subject
     app = QApplication(sys.argv)
     # dark mode
-    # app.setStyleSheet(qdarkstyle.load_stylesheet())
+    app.setStyleSheet(qdarkstyle.load_stylesheet())
 
     main = Toolbar()
     main.show()
