@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/drawing" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/menu_toolbar_statusbar" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/printer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/table_tree" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (jun_yolox)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
