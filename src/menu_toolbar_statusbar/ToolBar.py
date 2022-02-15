@@ -19,8 +19,25 @@ class Toolbar(QMainWindow):
 
         tb1 = self.addToolBar("File")
 
-        new = QAction(QIcon('./Images/Siri.png'),"new",self)
+        new = QAction(QIcon('./Images/new.png'),"new",self)
         tb1.addAction(new)
+
+        open = QAction(QIcon('./Images/open.png'),"open",self)
+        tb1.addAction(open)
+
+        save = QAction(QIcon('./Images/save.png'), "save", self)
+        tb1.addAction(save)
+
+        tb2 = self.addToolBar("File1")
+        new1 = QAction(QIcon('./Images/new.png'),"新建",self)
+        tb2.addAction(new1)
+
+        tb2.setToolButtonStyle(Qt.ToolButtonTextUnderIcon)
+
+        tb2.actionTriggered.connect(self.toolbtnpressed)
+
+    def toolbtnpressed(self,a):
+        print('按下的工具栏按钮是',a.text())
 
 
 
