@@ -2,6 +2,8 @@
 
 树控件QTreeWidget的基本用法
 
+root = QTreeWidgetItem(self.tree)
+
 '''
 
 import sys,qdarkstyle
