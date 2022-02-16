@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/designer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/dialogs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/calendar_time" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/containers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/drapclip" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/drawing" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/menu_toolbar_statusbar" isTestSource="false" />
