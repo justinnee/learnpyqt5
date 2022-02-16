@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/containers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/drapclip" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/drawing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/layout" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/menu_toolbar_statusbar" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/multithread" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/printer" isTestSource="false" />
