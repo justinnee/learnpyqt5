@@ -12,7 +12,7 @@ from CommonHelper import CommonHelper
 class MainWindow(QMainWindow):
     def __init__(self,parent=None):
         super(MainWindow, self).__init__(parent)
-        self.resize(1300,900)
+        self.resize(1620,1080)
         self.setWindowTitle('加载QSS文件')
 
         btn = QPushButton()
@@ -39,7 +39,7 @@ if __name__ == '__main__':
     # create QApplication subject
     app = QApplication(sys.argv)
     # dark mode
-    app.setStyleSheet(qdarkstyle.load_stylesheet())
+    # app.setStyleSheet(qdarkstyle.load_stylesheet())
     win = MainWindow()
     win.show()
     # into the main loop of the program,using exit to ensure a safe loop end

@@ -1,9 +1,9 @@
 QMainWindow{
-    border-image:url("C:\Users\SYL\Pictures\828c5d2bly1g7n1bscgg8j21900u07dq.jpg");
+    border-image:url("C:/Users/SYL/Pictures/828c5d2bly1g7n1bscgg8j21900u07dq.jpg");
 }
 
 QToolTip{
     border:1px solid rgb(45,45,45);
     background:white;
-    color:red
+    color:red;
 }
